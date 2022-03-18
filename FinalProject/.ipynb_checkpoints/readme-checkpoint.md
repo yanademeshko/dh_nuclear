@@ -5,7 +5,7 @@ This final project is part of a larger research question surrounding the renewed
   
 matters around diminishing nuclear weapons reduction commitments continue to persist. 
   
-In an age of heightened geopolitical escalation between NATO and Russia, especially since Russia again invaded Ukraine on February 24, 2022, and worsening relations between the U.S. and China, a perception of lowered threshold for the use of nuclear weapons is alarming. This project seeks to track historical changes in nuclear arsenals of the U.S. and Russia, note how these changes correspond to various global and bilateral treaties, and assess the possible scope of the next U.S.-Russia treaty on nuclear nonproliferation. 
+In an age of heightened geopolitical escalation between NATO and Russia and worsening relations between the U.S. and China, a perception of lowered threshold for the use of nuclear weapons is alarming. This project seeks to track historical changes in nuclear arsenals of the U.S. and Russia, note how these changes correspond to various global and bilateral treaties, and assess the possible scope of the next U.S.-Russia treaty on nuclear nonproliferation. 
   
 ## Data Sources
 For the first part of this project, I will use the Federation of American Scientists' [data](https://fas.org/issues/nuclear-weapons/status-world-nuclear-forces/) that outlines the U.S. and Russia's nuclear inventories from 1945 until 2021. This will allow me to see how each country's inventories changed in response to important historical events of the second half of the 20th century as well as nuclear nonproliferation treaties.
